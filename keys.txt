@@ -1,2 +1,0 @@
-16bits - 16 symbols key
-32bits - 32 symbols key
